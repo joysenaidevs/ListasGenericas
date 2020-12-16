@@ -1,0 +1,13 @@
+C:\Users\DEV\Desktop\ListasGenericas\bin\Debug\netcoreapp3.1\ListasGenericas.exe
+C:\Users\DEV\Desktop\ListasGenericas\bin\Debug\netcoreapp3.1\ListasGenericas.deps.json
+C:\Users\DEV\Desktop\ListasGenericas\bin\Debug\netcoreapp3.1\ListasGenericas.runtimeconfig.json
+C:\Users\DEV\Desktop\ListasGenericas\bin\Debug\netcoreapp3.1\ListasGenericas.runtimeconfig.dev.json
+C:\Users\DEV\Desktop\ListasGenericas\bin\Debug\netcoreapp3.1\ListasGenericas.dll
+C:\Users\DEV\Desktop\ListasGenericas\bin\Debug\netcoreapp3.1\ListasGenericas.pdb
+C:\Users\DEV\Desktop\ListasGenericas\obj\Debug\netcoreapp3.1\ListasGenericas.csprojAssemblyReference.cache
+C:\Users\DEV\Desktop\ListasGenericas\obj\Debug\netcoreapp3.1\ListasGenericas.AssemblyInfoInputs.cache
+C:\Users\DEV\Desktop\ListasGenericas\obj\Debug\netcoreapp3.1\ListasGenericas.AssemblyInfo.cs
+C:\Users\DEV\Desktop\ListasGenericas\obj\Debug\netcoreapp3.1\ListasGenericas.csproj.CoreCompileInputs.cache
+C:\Users\DEV\Desktop\ListasGenericas\obj\Debug\netcoreapp3.1\ListasGenericas.dll
+C:\Users\DEV\Desktop\ListasGenericas\obj\Debug\netcoreapp3.1\ListasGenericas.pdb
+C:\Users\DEV\Desktop\ListasGenericas\obj\Debug\netcoreapp3.1\ListasGenericas.genruntimeconfig.cache
